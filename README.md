@@ -18,10 +18,8 @@ This project demonstrates how to build an enterprise-grade Azure Landing Zone us
 
 ## 🏗️ Architecture
 
-> **Architecture Diagram**
-
 <p align="center">
-  <img src="./architecture/azure-landing-zone.png" width="1000">
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e372750-1b65-463c-8b18-edf572b104c4" />
 </p>
 
 ---
@@ -192,12 +190,10 @@ terraform apply
 
 ## 📷 Screenshots
 
-| Azure Portal | Terraform |
-|--------------|-----------|
-| <img width="1399" height="964" alt="image" src="https://github.com/user-attachments/assets/480afc52-adc9-4d66-85c7-af1b824416a0" />
-| <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4fdf4c4f-46f0-42d0-af2e-b23d3d0c0c40" />|
+| Terraform |
+|-----------|
+|<img width="1399" height="964" alt="image" src="https://github.com/user-attachments/assets/e182c191-3679-4dc6-80da-c14bdf56c4ba" />|
 
----
 
 ## 📈 Future Enhancements
 
@@ -232,5 +228,5 @@ This project is licensed under the MIT License.
 
 Senior Azure Cloud & DevOps Engineer
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 GitHub: https://github.com/your-username
+- 💼 LinkedIn: www.linkedin.com/in/syed-abid-ali
+- 🌐 GitHub: https://github.com/abid1988
