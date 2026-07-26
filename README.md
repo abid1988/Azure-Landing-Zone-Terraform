@@ -194,7 +194,8 @@ terraform apply
 
 | Azure Portal | Terraform |
 |--------------|-----------|
-| *(Add screenshots here)* | *(Add screenshots here)* |
+| <img width="1399" height="964" alt="image" src="https://github.com/user-attachments/assets/480afc52-adc9-4d66-85c7-af1b824416a0" />
+| <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4fdf4c4f-46f0-42d0-af2e-b23d3d0c0c40" />|
 
 ---
 
